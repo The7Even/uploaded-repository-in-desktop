@@ -1,3 +1,9 @@
-import random
+#include <stdio.h>
 
-print(f"{random.randint(1,100000)} is my number. yours is 0. I won.")
+int main(void)
+{
+    int a = 0;
+    printf("Hello World!\n");
+    
+    return 0;
+}
