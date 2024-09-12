@@ -1,10 +1,3 @@
-import match
+import random
 
-a = 50
-b = 100
-
-print(f"{a}+{b} = {a*b}")
-
-a = 100
-
-print(f"{a}+{b} = {a/b})
+print(f"{random.randint(1,100000)} is my number. yours is 0. I won.")
